@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/harwood
+———————————————————————
+
+I hereby claim:
+
+  * I am an admin of https://amiabadparent.com
+  * I am harwood (https://keybase.io/harwood) on keybase.
+  * I have a public key ASBrI0kOZmnJQ2GsKaGalHMX6T—a-H_6BxMwfnyBl1YnQo
+
+To do so, I am signing this object:
+
+{
+  “body”: {
+    “key”: {
+      “eldest_kid”: “01200ba80484863f6e7e09395f6c2432f291b74cc48fdca1a88b33c3d8e4d63cd9ec0a”,
+      “host”: “keybase.io”,
+      “kid”: “01206b23490e6669c94361ac29a19a947317e93fbe6be1ffe81c4cc1f9f2065d589d0a”,
+      “uid”: “ebd94addad3733b9af027c83fcd75d19”,
+      “username”: “harwood”
+    },
+    “merkle_root”: {
+      “ctime”: 1603082137,
+      “hash”: “c050c4557478f1089c241225964f805eebb423316f85f5a668e666bae5e7657079aadbb12a6f7b7f6e1a53679606f9e90a1cadf13119b0b7cbf8ed4f7f493b77”,
+      “hash_meta”: “165539a7a36dc069c3d9e0363cd44306ba2030589b4fc8439029e210406f30ab”,
+      “seqno”: 17866094
+    },
+    “service”: {
+      “entropy”: “zhXhCtsB2Jzuzcri9anEwPpi”,
+      “hostname”: “amiabadparent.com”,
+      “protocol”: “https:”
+    },
+    “type”: “web_service_binding”,
+    “version”: 2
+  },
+  “client”: {
+    “name”: “keybase.io go client”,
+    “version”: “5.5.0”
+  },
+  “ctime”: 1603082200,
+  “expire_in”: 504576000,
+  “prev”: “0e3b5907c90658f67cd1c23a2185d83190fb6d55448a0efa2a14b4add98da382”,
+  “seqno”: 238,
+  “tag”: “signature”
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgayNJDmZpyUNhrCmhmpRzF+k/vmvh/+gcTMH58gZdWJ0Kp3BheWxvYWTES5cCzO7EIA47WQfJBlj2fNHCOiGF2DGQ+21VRIoO+ioUtK3ZjaOCxCAHuxhBpjg2ySkLHQ0OF4bwlLgGovEkjc7ouIo8znA0sAIBwqNzaWfEQMgaO1ZAKu9IMblCdFt1Y0pLI+w76+rErZxeCoBZO+XIzZ4AhYUrdEZaN7HSkISYq83FQ7ePW7zzUbF5fItEZQGoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDJyWY07d13R9GXDqX2+1MTlNonR1JUjl0Hy/YWctKHGaN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/harwood
+
+==================================================================
