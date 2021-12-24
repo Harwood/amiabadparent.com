@@ -48,8 +48,9 @@
             "type": "image/png"
         }
     ],
+    "id": "/",
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
-    "start_url": "https://amiabadparent.com",
+    "start_url": "/",
     "display": "standalone"
 }
