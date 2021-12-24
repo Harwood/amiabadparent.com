@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <meta http-equiv="Feature-Policy" content="* 'none'">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" href="/static/favicon-32x32.png">
     <link rel="icon" type="image/png" href="/static/favicon-194x194.png">
@@ -8,7 +9,6 @@
     <link rel="icon" type="image/png" href="/static/favicon-16x16.png">
     <link rel="manifest" href="/static/site.webmanifest">
     <link rel="mask-icon" href="/static/safari-pinned-tab.svg">
-    <meta http-equiv="Feature-Policy" content="* 'none'">
     <meta name="apple-mobile-web-app-title" content="Am I A Bad Parent">
     <meta name="application-name" content="Am I A Bad Parent">
     <meta name="msapplication-TileColor" content="#000000">
@@ -16,8 +16,10 @@
     <meta name="theme-color" content="#ffffff">
     <style type="text/css">
       @font-face {
+        font-display: swap;
         font-family: "Hermit Regular";
-        src: url(static/Hermit-Regular.otf) format("opentype");
+        font-style: normal;
+        src: local(Hermit Regular), local(Hermit-Regular), url(static/Hermit-Regular.otf) format("opentype");
       }
       @media (prefers-color-scheme: dark) {
         body {
@@ -48,7 +50,7 @@
   <body>
     <main>
       <h1>Yes.</h1>
-      <p>But we still love you.</p>
+      <h3>But we still love you.</h3>
     </main>
   </body>
 </html>
